@@ -1,28 +1,28 @@
 
 const perguntas = [
 {
-categoria: "[Categoria do Aluno]",
-pergunta: "[Pergunta 1 do Aluno]",
-resposta: "[Resposta 1 do Aluno]"
+categoria: "[Matemática]",
+pergunta: "[Como resolver uma equação do segundo grau]",
+resposta: "[Primeiro, identificamos os coeficientes, depois aplicamos a fórmula de Bhaskara.]"
 },
 {
-categoria: "[Categoria do Aluno]",
-pergunta: "[Pergunta 2 do Aluno]",
-resposta: "[Resposta 2 do Aluno]"
+categoria: "[Física]",
+pergunta: "[Qual é a fórmula da força]",
+resposta: "[A fórmula da força é F = m * a, onde 'm' é a massa e 'a' é a aceleração.]"
 },
 {
-categoria: "[Categoria do Aluno]",
-pergunta: "[Pergunta 3 do Aluno]",
-resposta: "[Resposta 3 do Aluno]"
+categoria: "[Química]",
+pergunta: "[O que é uma reação endotérmica]",
+resposta: "[É uma reação que absorve calor do ambiente durante o processo.]"
 },
 {
-categoria: "[Categoria do Aluno]",
-pergunta: "[Pergunta 4 do Aluno]",
-resposta: "[Resposta 4 do Aluno]"
+categoria: "[História]",
+pergunta: "[Quem foi o primeiro presidente do Brasil?]",
+resposta: "[O primeiro presidente do Brasil foi Marechal Deodoro da Fonseca.]"
 },
 {
-categoria: "[Categoria do Aluno]",
-pergunta: "[Pergunta 5 do Aluno]",
-resposta: "[Resposta 5 do Aluno]"
+categoria: "[Geografia]",
+pergunta: "[Quais são os continentes da Terra?]",
+resposta: "[Quais são os continentes da Terra?",]"
 }
 ];
