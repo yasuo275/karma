@@ -1,4 +1,3 @@
-
 const perguntas = [
 {
 categoria: "[Matemática]",
